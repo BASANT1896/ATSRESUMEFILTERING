@@ -1,1 +1,2 @@
 # ATSRESUMEFILTERING
+ATS Resume Expert is a Streamlit-based web app powered by Google Gemini AI. It analyzes resumes and job descriptions to provide smart suggestions, helping users tailor their resumes for better compatibility with Applicant Tracking Systems (ATS). Users can upload a resume (PDF) and job description to receive AI-generated insights, making job applications more effective and targeted.
